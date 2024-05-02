@@ -18,12 +18,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 
 /**
- * 
- * @author Jason Li
- * @version 1.0
- * @since 19.12.2016
- * 
- * 
+
  * The Class Main.
  */
 public class Main extends Application {
