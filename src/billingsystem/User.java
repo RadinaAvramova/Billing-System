@@ -7,14 +7,6 @@ import java.io.Serializable;
 
 /**
  * 
- * 
- * 
- * @author Jason Li
- * @version 1.0
- * @since 19.12.2016
- * 
- * 
- * 
  * The Class User.
  */
 @SuppressWarnings("serial")
